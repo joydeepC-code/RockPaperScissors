@@ -12,7 +12,7 @@ print("You're up against the computer")
 print("This is a 5 round game")
 print("Good luck!")
 
-i = 0
+i = 1
 while i <= 5:
     userNum = input(
         "Select your weapon: \nEnter 1 for Rock \nEnter 2 for Paper \nEnter 3 for Scissors \n")
